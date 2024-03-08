@@ -11,6 +11,6 @@ Implement in the next way:
 ```
 auth_common:
     git:
-      url: https://github.com/cincinnatiai/auth_common.git
+      url: https://github.com/cincinnatiai/flutter_auth_common.git
       fer: main
 ```
