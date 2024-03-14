@@ -51,3 +51,5 @@ enum PasswordState {
   codeMismatch,
   strongPasswordError,
 }
+
+enum ImageSize { fullSize, defaultSize }
